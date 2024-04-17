@@ -12,6 +12,8 @@ const ChallengeSelect: FC = () => {
   const { t } = useTranslation("common");
   const gameVM = useVM<GameViewModel>(GameViewModel);
 
+  console.log('debug', gameVM.allChanges, gameVM);
+
   const handleLanguageChange = (
     _event: SyntheticEvent<Element, Event>,
     newValue: string,

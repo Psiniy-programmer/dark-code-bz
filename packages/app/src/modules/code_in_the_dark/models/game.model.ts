@@ -11,9 +11,9 @@ const START_CODE =
   <head> 
     <style type="text/css">
       @font-face { 
-        font-family: PressStart2P; 
-        src: url("./assets/PressStart2P-Regular.ttf"); }
-      body {
+        font-family: sans-serif; 
+      }
+      body, ul {
         padding: 0;
         margin: 0;
       }
