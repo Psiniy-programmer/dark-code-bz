@@ -258,7 +258,7 @@ font: Sans-serif
 Синий - #163bff
 
 Images:
-- /dark-code-bz/src/data/BiZone/logo.png (135x24)
+- ./assets/logo.png (135x24)
 - ./assets/mainbg.png
 - ./assets/search.png (18x18)
 \`\`\`
